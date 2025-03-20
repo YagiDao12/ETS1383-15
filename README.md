@@ -16,8 +16,8 @@ if we want to change the string to uppercase we use upper()
 
 
    
-     ##string method 2
 
+#string methods 2
 the string method i used is called islower()
 
 islower(): this method is used to check if a string is in lower case or not
@@ -32,3 +32,12 @@ example:
      to change the string to lower case we use :
      print(name.lower())
      
+#string methods 3
+i used the string method called capitalize() to make the first of my letter in a variable to make it uppercase.
+example:
+      name = 'solomon is good'
+      answer = name.capitalize()
+      print(answer)
+#or if we want we can use the first assigned variable without assigning another one. for example:
+      name = 'solomon is good'
+      print(name.capitalize())   # the expected answer is the same like the above
