@@ -41,3 +41,7 @@ example:
 #or if we want we can use the first assigned variable without assigning another one. for example:
       name = 'solomon is good'
       print(name.capitalize())   # the expected answer is the same like the above
+
+
+#string methods 4
+I used str.title() string method to capitalize the first letters of each word on a string
