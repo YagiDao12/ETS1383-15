@@ -45,3 +45,12 @@ example:
 
 #string methods 4
 I used str.title() string method to capitalize the first letters of each word on a string
+
+# string method 5
+i used str.find(). this is used where the letters are located in a string. if the wanted letter is not there, then it returns -1
+
+#string method 6
+i used str.index(). this is used to find where the letters are located in a string like the find method. their difference is if the wanted letter is not there find returns -1 whereas index doesn't return it just shows error message
+
+#string method 7
+i ussed str.startswith(). this is used to check in a string the first letter or sentence starts wtih what we want to know. it returns boolean value.
