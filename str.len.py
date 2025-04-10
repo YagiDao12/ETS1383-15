@@ -1,0 +1,7 @@
+Name = 'yared'
+
+Number = [ 1, 2, 3, 4 ]
+
+print(len(Name))
+
+print(len(Number))
