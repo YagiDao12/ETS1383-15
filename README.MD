@@ -51,3 +51,33 @@ this one is used to tell us where the specific list we asked it is located in th
 list = ['hi', 'hello', 'run']
 
 print(list.index('hi'))     # 0
+
+# 7 pop
+
+this is used to remove the last list from the list. and another one is that if we give it the index number it will remove that one to. for example :
+
+list = ['john', 'yared', 'abebe']
+
+list.pop()
+
+print(list)      # ['john', 'yared']
+
+# 8 remove
+
+this one is used to remove the unwanted list. for example :
+
+list = ['hi', 'hello', 'bye']
+
+list.remove('hello')
+
+print(list)    # ['hi', 'bye']
+
+# 9 reverse
+
+this one is used to reverse the list for example :
+
+list = ['john', 'yared']
+
+list.reverse()
+
+print(list)     # ['yared', 'john']
